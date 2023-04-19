@@ -2,6 +2,9 @@
 
 Tiptop is a delivery app based in Iraq it helps with Food,Grocery&Water Delivery + a new feature [Taxi] which is basically more like Uber , so yeah , i guess we deliver people now also xD
 
+[Google Playstore](https://play.google.com/store/apps/details?id=app.trytiptop.customer&hl=en&gl=US)
+[Apple Store](https://apps.apple.com/tr/app/tiptop-%D8%AA%D9%8A%D8%A8-%D8%AA%D9%88%D8%A8/id1538884916)
+
 ## Screenshots
 
 <table>
